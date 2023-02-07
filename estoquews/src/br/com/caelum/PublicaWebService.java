@@ -1,6 +1,7 @@
-package br.com.caelum.estoque.ws;
+package br.com.caelum;
 
 import javax.xml.ws.Endpoint;
+import br.com.caelum.PublicaWebService;
 
 public class PublicaWebService {
 
